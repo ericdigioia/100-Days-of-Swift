@@ -11,7 +11,7 @@ My solutions to Hacking with Swift's 100 Days of Swift (UIKit) projects
 
 The first two weeks were a review of the Swift programming language.
 
-### Storm Viewer (Days 16-18)
+### Project 1: Storm Viewer (Days 16-18)
 
 ## 100 Days of Swift from Hacking with Swift
 https://www.hackingwithswift.com/100
