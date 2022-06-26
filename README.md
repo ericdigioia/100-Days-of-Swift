@@ -14,7 +14,7 @@ The first two weeks were a review of the Swift programming language.
 ### Storm Viewer (Days 16-18)
 
 ## 100 Days of Swift from Hacking with Swift
-https://www.hackingwithswift.com/100/swiftui
+https://www.hackingwithswift.com/100
 
 [swift-version]: https://img.shields.io/badge/Swift-5.6-green.svg
 [xcode-version]: https://img.shields.io/badge/Xcode-13.3-green.svg
