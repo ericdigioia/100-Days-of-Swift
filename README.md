@@ -6,7 +6,8 @@
 ![Designed with UIKit][uikit]
 ![Designed with Interface Builder][IB]
 
-My solutions to Hacking with Swift's 100 Days of Swift (UIKit) projects
+My solutions to Hacking with Swift's 100 Days of Swift (UIKit) projects <br/>
+(It may take a minute to load all app previews inside the README)
 
 ## App Projects
 
