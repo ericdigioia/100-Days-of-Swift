@@ -19,8 +19,8 @@ Swift programming language.
 ### Project 1: Storm Viewer (Days 16-18)
 
 <img align="left" src="Project1/preview.GIF" height="600"><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-A simple app to view different <br/>
-pictures of storms.
+&emsp;&emsp; A simple app to view different <br/>
+&emsp;&emsp; pictures of storms.
 <br clear="left"/><br/><br/>
 
 ## 100 Days of Swift from Hacking with Swift
